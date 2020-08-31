@@ -17,5 +17,20 @@
   "bugs": {
     "url": "https://github.com/cojo12/employee-directory/issues"
   },
-  "homepage": "https://github.com/cojo12/employee-directory#readme"
+  "homepage": "https://github.com/cojo12/employee-directory#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "classnames": "^2.2.6",
+    "express": "^4.17.1",
+    "moment": "^2.27.0",
+    "moment-timezone": "^0.5.31",
+    "path": "^0.12.7",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-moment": "^0.9.7",
+    "react-scripts": "^3.4.3",
+    "react-transition-group": "^4.4.1",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^1.2.1"
+  }
 }
